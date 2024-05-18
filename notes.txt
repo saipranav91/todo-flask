@@ -1,0 +1,5 @@
+db is for delete/updating,adding,commiting the database 
+for query u need to use class todo 
+
+repr function return the data base row in string <Task %r> task refers to the Todo(class definded) and r refers to self.id which
+is declared so every time u query u get <Task,1> as result which means <Todo,1> 1 is the id
